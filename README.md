@@ -1,2 +1,3 @@
-# SEC-350-01-Tech-Journal
-Thomas's SEC-350-Tech-Journal
+# Welcome to Thomas's SEC-350-Tech-Journal!
+My notes are located on the wiki of this repo!
+
